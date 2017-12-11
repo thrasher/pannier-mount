@@ -2,7 +2,7 @@
 
 Wall mount for a bicycle pannier bag (like Ortlieb).  The mounts allow you to store or load panniers off the bike.  Mounting keeps the panniers off the ground, which reduces abrasion on the fabric and prolongs the bag's life.  It also keeps your home/office looking more organized, because you don't have awkward bags lying around on the ground.
 
-I was inspired by the "Wall Caddy, Bicycle Pannier Wall Mount", which I use two of for my smaller pannier bags.  Unfortunately the Wall Caddy didn't work for my large Ortlieb panniers bags, with their clips set to their widest setting.  I wanted to create a very inexpensive way to mount my pannier bag in different locations.
+I was inspired by the "[Wall Caddy](https://www.etsy.com/listing/497165217/wall-caddy-bicycle-pannier-wall-mount), Bicycle Pannier Wall Mount", which I use two of for my smaller pannier bags.  Unfortunately the Wall Caddy didn't work for my large Ortlieb panniers bags, with their clips set to their widest setting.  I wanted to create a very inexpensive way to mount my pannier bag in different locations.
 
 Requires 4 drywall screws.
 
@@ -10,9 +10,13 @@ The mounting holes are sized to work well with "drywall screws".  This allows th
 
 Installation hint: clip one of the mounts into each of the two pannier bag mounts, and hold your bag on the wall.  You should be able to mark a hole for the postion while holding the bag where you want it.  Then remove the bag, level the mount, and put the second screw in.  Mark and mount one of the them, then mark the other, and use a ruler to insure that they are level.  Installation is really quick this way.
 
+The diameter of the bar is 8mm, and you can change it by editing the OpenSCAD file on https://github.com/thrasher/pannier-mount
+
 ## Print Settings
 
-Print with 20% infill, and 2 shells.  If you orient the part so the wall-facing-surface is on your printbed, then supports shouldn't be needed.  I was surprised when my MakerBot Mini's slicer didn't put a support under the 30mm bridge, but it came out great, with no cleanup needed.  It's strength comes from the large surface area of the shell.
+Dimensions are in millimeters.
+Print with 20% infill, and 2 shells.
+If you orient the part so the wall-facing-surface is on your printbed, then supports shouldn't be needed.  I was surprised when my MakerBot Mini's slicer didn't put a support under the 30mm bridge, but it came out great, with no cleanup needed.  It's strength comes from the large surface area of the shell.
 
 ## Post-Printing
 
@@ -25,5 +29,5 @@ OpenSCAD
 
 ## Thingiverse
 
-https://www.thingiverse.com/thing:2471763
+https://www.thingiverse.com/thing:2705036
 
